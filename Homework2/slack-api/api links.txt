@@ -1,0 +1,5 @@
+Link to the application: https://api.slack.com/apps/A03FEF86ENL/
+
+Request URL for slash command: https://3182-75-3-240-7.ngrok.io/function/slack-request
+
+Request URL for slack interactive: https://3182-75-3-240-7.ngrok.io/function/slack-interactive
